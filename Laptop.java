@@ -8,7 +8,7 @@ public class Laptop{
     int    harga       = 20000000;
 
     void tampilSpek() {
-        System.out.println("Laptop ini berwarna " + warnaLaptop + " dan bermerk " + merkLaptop +".");
+        System.out.println("Laptop ini berwarna " + warnaLaptop + " dan bermerk " + merkLaptop);
         System.out.println("Berikut rincian spek dari laptop " + merkLaptop + " :");
         System.out.println("======== Rincian Spek ========");    
         System.out.println("Processor    : " + processor );
