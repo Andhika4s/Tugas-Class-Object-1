@@ -16,6 +16,6 @@ public class Laptop{
         System.out.println("Ram          : " + ram);
         System.out.println("Harga Laptop : Rp." + harga);
         System.out.println("=====================================");
-
+                                            
     }
 }
